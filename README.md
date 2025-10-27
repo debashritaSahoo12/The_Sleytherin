@@ -5,7 +5,7 @@ A modern, feature-rich Snake game built with React and Vite, featuring multiple 
 ![Snake Game](https://img.shields.io/badge/Game-Snake-green) ![React](https://img.shields.io/badge/React-19.1.1-blue) ![Vite](https://img.shields.io/badge/Vite-7.1.2-purple) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1.11-cyan)
 
 ### 🎯 Live Demo 
-![The_Slytherin 🐍](https://the-slytherin.netlify.app)
+[The_Slytherin 🐍](https://the-slytherin.netlify.app)
 
 ## 🎮 Features
 
